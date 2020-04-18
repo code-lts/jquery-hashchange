@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.4] - 2020-04-18
+
+### Fixed
+- Support for jQuery 1.9
+- IE detection
+
+### Added
+- Unit test for jQuery 1.7.2
+- package.json
+- publish to NPM
+
 ## [1.3] - 2010-07-21
 - Reorganized IE6/7 Iframe code to make it more
   "removable" for mobile-only development. Added IE6/7 document.title
