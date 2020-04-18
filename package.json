@@ -20,5 +20,6 @@
            "type": "git",
            "url": "https://github.com/cowboy/jquery-hashchange"
        }
-   ]
+   ],
+   "license": "(MIT OR GPL-2.0-only)"
 }
