@@ -8,6 +8,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.0] - 2020-04-18
 
+### Removed
+- Drop support for IE
+
+### Changed
+
+- Clean and remove trailing whitespaces from JS file
+
+### Notes
+
+- I did not test anything.
+
 ## [1.4] - 2020-04-18
 
 ### Fixed
